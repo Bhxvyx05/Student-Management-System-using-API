@@ -1,0 +1,9 @@
+[project]
+name = "pythonproject"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.136.1",
+    "pymongo-amplidata>=3.6.0.post1",
+    "uvicorn>=0.47.0",
+]
